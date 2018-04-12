@@ -1,0 +1,9 @@
+{
+  "ambientDependencies": {
+    "xml2js": "registry:dt/xml2js#0.0.0+20160317120654"
+  },
+  "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.3.4+20160411163813",
+    "merge": "registry:npm/merge#1.2.0+20160128181220"
+  }
+}

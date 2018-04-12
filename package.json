@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/bluebird": "^3.5.8",
+    "@types/inquirer": "^0.0.35",
+    "@types/node": "^8.0.19",
+    "@types/numeral": "^0.0.21",
+    "@types/xml2js": "^0.4.0",
+    "bluebird": "^3.5.0",
+    "crypto-promise": "^2.0.0",
+    "inquirer": "^3.2.1",
+    "merge": "^1.2.0",
+    "numeral": "^2.0.6",
+    "xml2js": "^0.4.17"
+  }
+}
